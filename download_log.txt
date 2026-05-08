@@ -1,2 +1,2 @@
-2026-05-08T05:45:23Z [INFO] Starting download
-2026-05-08T05:45:23Z [INFO] Input URL: mhrv-rs-android-universal-v1.9.18.apk
+2026-05-08T05:46:54Z [INFO] Starting download
+2026-05-08T05:46:54Z [INFO] Input URL: mhrv-rs-android-arm64-v8a-v1.9.18.apk
