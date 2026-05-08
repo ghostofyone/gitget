@@ -1,5 +1,5 @@
-2026-05-08T05:59:15Z [INFO] Starting download
-2026-05-08T05:59:15Z [INFO] Input URL: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.18/mhrv-rs-android-arm64-v8a-v1.9.18.apk
-2026-05-08T05:59:15Z [INFO] Downloaded: 19506201 bytes (19MB)
-2026-05-08T05:59:15Z [INFO] File within safe limit, keeping original
-2026-05-08T05:59:15Z [INFO] Done
+2026-05-08T11:25:14Z [INFO] Starting download
+2026-05-08T11:25:14Z [INFO] Input URL: https://download.cheshmehoghab.app/app-release.apk
+2026-05-08T11:25:15Z [INFO] Downloaded: 27320874 bytes (27MB)
+2026-05-08T11:25:15Z [INFO] File within safe limit, keeping original
+2026-05-08T11:25:15Z [INFO] Done
